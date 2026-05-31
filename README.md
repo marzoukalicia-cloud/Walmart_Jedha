@@ -21,17 +21,31 @@ The project can be divided into three steps:
 
 ## Structure du projet
   Walmart_Jedha/
+  
 ├── data/
+
 │   └── Walmart_Store_sales.csv
+
 ├── notebook/
+
 │   └── Walmart_sales_project_AMK.ipynb
+
 ├── outputs/
+
 │   ├── output1.pdf
+
 │   ├── output2.pdf
+
 │   ├── output3.pdf
+
 │   ├── output4.pdf
+
 │   ├── output5.pdf
+
 │   ├── output6.pdf
+
 │   ├── output7.pdf
+
 │   └── output8.pdf
+
 └── README.md
